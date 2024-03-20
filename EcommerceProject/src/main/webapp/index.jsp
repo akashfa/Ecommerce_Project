@@ -10,7 +10,7 @@
 </head>
 <body>
 <%@include file="components/navbar.jsp" %>
-<h1>Anuradh sharma my chachi</h1>
+<h1>This is a Home page</h1>
 <% out.println(FactoryProvider.getFactory()+"<br>");
    
    out.println(FactoryProvider.getFactory());
